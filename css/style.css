@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.debug{
+    border: 1px solid black;
+    min-height: 50px;
+}
+
+.error{
+    cursor: pointer;
+    text-decoration: line-through;
+}
